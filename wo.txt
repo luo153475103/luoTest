@@ -3,5 +3,5 @@ woaini
 haha
 wo like
 SSS
+<<<<<<< HEAD
 sssssssxxwqddss
-master
